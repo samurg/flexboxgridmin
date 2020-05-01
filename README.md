@@ -86,7 +86,7 @@ Auto Width
 
 Add any number of auto sizing columns to a row. Let the grid figure it out.
 
-![Auto Width lg](/src/assets/img/auto-width-lg?raw=true "Auto Width")
+![Auto Width](/src/assets/img/auto-width-lg?raw=true "Auto Width")
 
 
 ```html
@@ -103,7 +103,7 @@ Nested Grids
 
 Nest grids inside grids inside grids.
 
-![Nested Grids lg](/src/assets/img/netsed-grid-lg?raw=true "Nested Grids")
+![Nested Grids](/src/assets/img/netsed-grid-lg?raw=true "Nested Grids")
 
 
 ```html
