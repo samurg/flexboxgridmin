@@ -86,7 +86,7 @@ Auto Width
 
 Add any number of auto sizing columns to a row. Let the grid figure it out.
 
-![Auto Width lg](/src/assets/img/auto-width-lg?raw=true "Offsets lg")
+![Auto Width lg](/src/assets/img/auto-width-lg?raw=true "Auto Width")
 
 
 ```html
