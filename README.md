@@ -31,7 +31,7 @@ Responsive
 
 Responsive modifiers enable specifying different column sizes, offsets, alignment and distribution at xs, sm, md & lg viewport widths.
 
-![Responsive lg](/src/assets/responsive.png)
+![Responsive lg](/src/assets/img/responsive.png)
 
 
 ![Responsive lg](/src/assets/responsive-xs.png)
