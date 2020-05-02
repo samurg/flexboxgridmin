@@ -86,7 +86,7 @@ Auto Width
 
 Add any number of auto sizing columns to a row. Let the grid figure it out.
 
-![Auto Width](/src/assets/img/auto-width-lg?raw=true "Auto Width")
+![Auto Width lg](/src/assets/img/auto-width-lg.png?raw=true "Offsets lg")
 
 
 ```html
@@ -103,7 +103,7 @@ Nested Grids
 
 Nest grids inside grids inside grids.
 
-![Nested Grids](/src/assets/img/netsed-grid-lg?raw=true "Nested Grids")
+![Nested Grids lg](/src/assets/img/netsed-grid-lg.png?raw=true "Nested Grids")
 
 
 ```html
@@ -128,7 +128,7 @@ Add classes to align elements to the start or end of a row as well as the top, b
 
 - .start-
 
-![Alignment Start](/src/assets/img/alignment-start?raw=true "Alignment Start")
+![Alignment Start](/src/assets/img/alignment-start.png?raw=true "Alignment Start")
 
 
 ```html
@@ -143,7 +143,7 @@ Add classes to align elements to the start or end of a row as well as the top, b
 
 - .center-
 
-![Alignment Center](/src/assets/img/alignment-center?raw=true "Alignment Center")
+![Alignment Center](/src/assets/img/alignment-center.png?raw=true "Alignment Center")
 
 
 ```html
@@ -158,7 +158,7 @@ Add classes to align elements to the start or end of a row as well as the top, b
 
 - .end-
 
-![Alignment End](/src/assets/img/alignment-end?raw=true "Alignment End")
+![Alignment End](/src/assets/img/alignment-end.png?raw=true "Alignment End")
 
 
 ```html
@@ -173,7 +173,7 @@ Add classes to align elements to the start or end of a row as well as the top, b
 
 Here is an example of using the modifiers in conjunction to acheive different alignment at different viewport sizes.
 
-![Alignment Example](/src/assets/img/alignment-example?raw=true "Alignment Example")
+![Alignment Example](/src/assets/img/alignment-example.png?raw=true "Alignment Example")
 
 Example:
 
@@ -189,7 +189,7 @@ Example:
 
 - .top-
 
-![Alignment Top](/src/assets/img/alignment-top?raw=true "Alignment Top")
+![Alignment Top](/src/assets/img/alignment-top.png?raw=true "Alignment Top")
 
 
 ```html
@@ -205,7 +205,7 @@ Example:
 
 - .middle-
 
-![Alignment Middle](/src/assets/img/alignment-middle?raw=true "Alignment Middle")
+![Alignment Middle](/src/assets/img/alignment-middle.png?raw=true "Alignment Middle")
 
 
 ```html
@@ -220,7 +220,7 @@ Example:
 
 - .bottom-
 
-![Alignment Bottom](/src/assets/img/alignment-bottom?raw=true "Alignment Bottom")
+![Alignment Bottom](/src/assets/img/alignment-bottom.png?raw=true "Alignment Bottom")
 
 
 ```html
@@ -241,7 +241,7 @@ Add classes to distribute the contents of a row or column.
 
 - .around-
 
-![Distribution around](/src/assets/img/distribution-arround?raw=true "Distribution around")
+![Distribution around](/src/assets/img/distribution-around.png?raw=true "Distribution around")
 
 
 ```html
@@ -267,7 +267,7 @@ Add classes to distribute the contents of a row or column.
 
 - .between-
 
-![Distribution between](/src/assets/img/distribution-between?raw=true "Distribution between")
+![Distribution between](/src/assets/img/distribution-between.png?raw=true "Distribution between")
 
 
 ```html
@@ -298,7 +298,7 @@ Add classes to reorder columns.
 
 - .first-
 
-![Reordering first](/src/assets/img/reordering-first?raw=true "Reordering first")
+![Reordering first](/src/assets/img/reordering-first.png?raw=true "Reordering first")
 
 
 ```html
@@ -324,7 +324,7 @@ Add classes to reorder columns.
 
 - .last-
 
-![Reordering last](/src/assets/img/reordering-last?raw=true "Reordering last")
+![Reordering last](/src/assets/img/reordering-last.png?raw=true "Reordering last")
 
 
 ```html
@@ -353,7 +353,7 @@ Reversing
 
 - .reverse-
 
-![Reversing reverse](/src/assets/img/reversing-reverse?raw=true "Reversing reverse")
+![Reversing reverse](/src/assets/img/reversing-reverse.png?raw=true "Reversing reverse")
 
 
 ```html
