@@ -5,8 +5,8 @@ Grid based on the `flex` display property.
 
 
 ### css
-* [Development](https://github.com/samurg/flexboxgridmin/master/src/flexboxgrid.css)
-* [Production](https://github.com/samurg/flexboxgridmin/master/dist/flexboxgrid.min.css)
+* [Development](/src/flexboxgrid.css)
+* [Production](/dist/flexboxgrid.min.css)
 
 Add the `flexboxgrid.css` __development__ or `flexboxgrid.min.css` __production__ to your html page.
 
